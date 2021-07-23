@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * get_height - get absolute height
+ * Write a function that measures the height of a binary tree
  * @tree: pointer to the tree
  * Return: Height of the tree
  */
