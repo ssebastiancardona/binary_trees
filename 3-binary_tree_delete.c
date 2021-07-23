@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * binary_tree_delete - deletes an entire binary tree
+ * Write a function that deletes an entire binary tree
  * @tree: root of tree to delete
  * Return: void
  */
